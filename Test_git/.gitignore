@@ -9,6 +9,3 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
-#Eclipse
-.classpath
